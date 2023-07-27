@@ -54,11 +54,11 @@
 
 ## Week 6
 
-| Day 21                                               | Day 22                          | Day 23                | Day 24       |
-| ---------------------------------------------------- | ------------------------------- | --------------------- | ------------ |
-| Monday                                               | Tuesday                         | Wednesday             | Thursday     |
-| 09/04/23                                             | 09/05/23                        | 09/06/23              | 09/07/23     |
-| Fullstack Applications, GET requests, Asynchronicity | POST requests, Create a message | Edit, Delete messages | Project Work |
+| Day 21                               | Day 22          | Day 23          | Day 24       |
+| ------------------------------------ | --------------- | --------------- | ------------ |
+| Monday                               | Tuesday         | Wednesday       | Thursday     |
+| 09/04/23                             | 09/05/23        | 09/06/23        | 09/07/23     |
+| Intro to Node, Express, GET requests | Intro to Prisma | CRUD operations | Project Work |
 
 `Project: Spammer Backend due Sunday, 09/10/23`
 

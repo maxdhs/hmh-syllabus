@@ -2,14 +2,42 @@
 
 ## _07/31/23 - 10/19/23_
 
-## Week 1 - `Wikipedia Clone`
+## Week 1
 
-| Day 1         | Day 2        | Day 3   | Day 4        |
-| ------------- | ------------ | ------- | ------------ |
-| Intro to HTML | Intro to CSS | Flexbox | Project Work |
+| Day 1         | Day 2        | Day 3     | Day 4        |
+| ------------- | ------------ | --------- | ------------ |
+| Monday        | Tuesday      | Wednesday | Thursday     |
+| 07/31/23      | 08/01/23     | 08/02/23  | 08/03/23     |
+| Intro to HTML | Intro to CSS | Flexbox   | Project Work |
 
-## Week 2 - `Number Guesser`
+`Project: Wikipedia Clone due Sunday, 08/06/23`
 
-| Day 5               | Day 6 | Day 7     | Day 8        |
-| ------------------- | ----- | --------- | ------------ |
-| Intro to JavaScript | Loops | Functions | Project Work |
+## Week 2
+
+| Day 5               | Day 6    | Day 7     | Day 8        |
+| ------------------- | -------- | --------- | ------------ |
+| Monday              | Tuesday  | Wednesday | Thursday     |
+| 08/07/23            | 08/08/23 | 08/09/23  | 08/10/23     |
+| Intro to JavaScript | Loops    | Functions | Project Work |
+
+`Project: Number Guesser due Sunday, 08/13/23`
+
+## Week 3
+
+| Day 9        | Day 10       | Day 11    | Day 12   |
+| ------------ | ------------ | --------- | -------- |
+| Monday       | Tuesday      | Wednesday | Thursday |
+| 08/14/23     | 08/15/23     | 08/16/23  | 08/17/23 |
+| DOM - Part 1 | DOM - Part 2 | Arrays    | Objects  |
+
+`No project due this week`
+
+## Week 4
+
+| Day 13         | Day 14                 | Day 15    | Day 16       |
+| -------------- | ---------------------- | --------- | ------------ |
+| Intro to React | Forms, Event Listeners | useEffect | Project Work |
+| Monday         | Tuesday                | Wednesday | Thursday     |
+| 08/21/23       | 08/22/23               | 08/23/23  | 08/24/23     |
+
+`Project: Milkman due Sunday, 08/27/23`

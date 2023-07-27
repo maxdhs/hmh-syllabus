@@ -51,3 +51,73 @@
 | Fullstack Applications, GET requests, Asynchronicity | POST requests, Create a message | Edit, Delete messages | Project Work |
 
 `Project: Spammer Frontend due Sunday, 09/03/23`
+
+## Week 6
+
+| Day 21                                               | Day 22                          | Day 23                | Day 24       |
+| ---------------------------------------------------- | ------------------------------- | --------------------- | ------------ |
+| Monday                                               | Tuesday                         | Wednesday             | Thursday     |
+| 09/04/23                                             | 09/05/23                        | 09/06/23              | 09/07/23     |
+| Fullstack Applications, GET requests, Asynchronicity | POST requests, Create a message | Edit, Delete messages | Project Work |
+
+`Project: Spammer Backend due Sunday, 09/10/23`
+
+## Week 7
+
+| Day 25       | Day 26                    | Day 27               | Day 28       |
+| ------------ | ------------------------- | -------------------- | ------------ |
+| Monday       | Tuesday                   | Wednesday            | Thursday     |
+| 09/11/23     | 09/12/23                  | 09/13/23             | 09/14/23     |
+| React Router | Register Form, Login Form | Navbar, localStorage | Project Work |
+
+`No project due this week`
+
+## Week 8
+
+| Day 29       | Day 30                    | Day 31               | Day 32       |
+| ------------ | ------------------------- | -------------------- | ------------ |
+| Monday       | Tuesday                   | Wednesday            | Thursday     |
+| 09/18/23     | 09/19/23                  | 09/20/23             | 09/21/23     |
+| React Router | Register Form, Login Form | Navbar, localStorage | Project Work |
+
+`Project: Reddit Frontend due Sunday, 09/24/23`
+
+## Week 9
+
+| Day 33         | Day 34              | Day 35       | Day 36       |
+| -------------- | ------------------- | ------------ | ------------ |
+| Monday         | Tuesday             | Wednesday    | Thursday     |
+| 09/25/23       | 09/26/23            | 09/27/23     | 09/28/23     |
+| Authentication | JWT tokens, hashing | Project Work | Project Work |
+
+`No project due this week`
+
+## Week 10
+
+| Day 37                    | Day 38               | Day 39       | Day 40       |
+| ------------------------- | -------------------- | ------------ | ------------ |
+| Monday                    | Tuesday              | Wednesday    | Thursday     |
+| 10/02/23                  | 10/03/23             | 10/04/23     | 10/05/23     |
+| Auth middleware, req.user | CRUD auth operations | Project Work | Project Work |
+
+`Project: Reddit Backend due Sunday, 10/08/23`
+
+## Week 11
+
+| Day 41   | Day 42   | Day 43    | Day 44   |
+| -------- | -------- | --------- | -------- |
+| Monday   | Tuesday  | Wednesday | Thursday |
+| 10/09/23 | 10/10/23 | 10/11/23  | 10/12/23 |
+| Capstone | Capstone | Capstone  | Capstone |
+
+`No project due this week`
+
+## Week 12
+
+| Day 45   | Day 46   | Day 47    | Day 48     |
+| -------- | -------- | --------- | ---------- |
+| Monday   | Tuesday  | Wednesday | Thursday   |
+| 10/16/23 | 10/17/23 | 10/18/23  | 10/19/23   |
+| Capstone | Capstone | Capstone  | Graduation |
+
+`Project: Capstone due Wednesday, 10/18/23`

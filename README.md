@@ -36,8 +36,18 @@
 
 | Day 13         | Day 14                 | Day 15    | Day 16       |
 | -------------- | ---------------------- | --------- | ------------ |
-| Intro to React | Forms, Event Listeners | useEffect | Project Work |
 | Monday         | Tuesday                | Wednesday | Thursday     |
 | 08/21/23       | 08/22/23               | 08/23/23  | 08/24/23     |
+| Intro to React | Forms, Event Listeners | useEffect | Project Work |
 
 `Project: Milkman due Sunday, 08/27/23`
+
+## Week 5
+
+| Day 17                                               | Day 18                          | Day 19                | Day 20       |
+| ---------------------------------------------------- | ------------------------------- | --------------------- | ------------ |
+| Monday                                               | Tuesday                         | Wednesday             | Thursday     |
+| 08/28/23                                             | 08/29/23                        | 08/30/23              | 08/31/23     |
+| Fullstack Applications, GET requests, Asynchronicity | POST requests, Create a message | Edit, Delete messages | Project Work |
+
+`Project: Spammer Frontend due Sunday, 09/03/23`

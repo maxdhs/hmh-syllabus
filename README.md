@@ -30,7 +30,7 @@
 | 08/14/23     | 08/15/23     | 08/16/23  | 08/17/23 |
 | DOM - Part 1 | DOM - Part 2 | Arrays    | Objects  |
 
-`No project due this week`
+`Project: Milkman due Sunday, 08/20/23`
 
 ## Week 4
 
@@ -40,7 +40,7 @@
 | 08/21/23       | 08/22/23               | 08/23/23  | 08/24/23     |
 | Intro to React | Forms, Event Listeners | useEffect | Project Work |
 
-`Project: Milkman due Sunday, 08/27/23`
+`Project: Spray and Pray Board due Sunday, 08/27/23`
 
 ## Week 5
 

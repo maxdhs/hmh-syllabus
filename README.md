@@ -30,7 +30,7 @@
 | 08/14/23     | 08/15/23     | 08/16/23  | 08/17/23 |
 | DOM - Part 1 | DOM - Part 2 | Arrays    | Objects  |
 
-`Project: Milkman due Sunday, 08/20/23`
+`Project: Vanilla Milkman due Sunday, 08/20/23`
 
 ## Week 4
 
@@ -40,7 +40,7 @@
 | 08/21/23       | 08/22/23               | 08/23/23  | 08/24/23     |
 | Intro to React | Forms, Event Listeners | useEffect | Project Work |
 
-`Project: Spray and Pray Board due Sunday, 08/27/23`
+`Project: React Milkman due Sunday, 08/27/23`
 
 ## Week 5
 
@@ -70,8 +70,6 @@
 | 09/11/23     | 09/12/23                  | 09/13/23             | 09/14/23     |
 | React Router | Register Form, Login Form | Navbar, localStorage | Project Work |
 
-`No project due this week`
-
 ## Week 8
 
 | Day 29       | Day 30                    | Day 31               | Day 32       |
@@ -90,8 +88,6 @@
 | 09/25/23       | 09/26/23            | 09/27/23     | 09/28/23     |
 | Authentication | JWT tokens, hashing | Project Work | Project Work |
 
-`No project due this week`
-
 ## Week 10
 
 | Day 37                    | Day 38               | Day 39       | Day 40       |
@@ -109,8 +105,6 @@
 | Monday   | Tuesday  | Wednesday | Thursday |
 | 10/09/23 | 10/10/23 | 10/11/23  | 10/12/23 |
 | Capstone | Capstone | Capstone  | Capstone |
-
-`No project due this week`
 
 ## Week 12
 

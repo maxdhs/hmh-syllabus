@@ -10,7 +10,7 @@
 | 07/31/23      | 08/01/23     | 08/02/23  | 08/03/23     |
 | Intro to HTML | Intro to CSS | Flexbox   | Project Work |
 
-`Project: Wikipedia Clone due Sunday, 08/06/23`
+`Project: Wikipedia Clone due Monday, 08/07/23`
 
 ## Week 2
 
@@ -20,7 +20,7 @@
 | 08/07/23            | 08/08/23 | 08/09/23  | 08/10/23     |
 | Intro to JavaScript | Loops    | Functions | Project Work |
 
-`Project: Number Guesser due Sunday, 08/13/23`
+`Project: Number Guesser due Monday, 08/14/23`
 
 ## Week 3
 
@@ -30,7 +30,7 @@
 | 08/14/23     | 08/15/23     | 08/16/23  | 08/17/23 |
 | DOM - Part 1 | DOM - Part 2 | Arrays    | Objects  |
 
-`Project: Vanilla Milkman due Sunday, 08/20/23`
+`Project: Vanilla Milkman due Monday, 08/21/23`
 
 ## Week 4
 
@@ -40,7 +40,7 @@
 | 08/21/23       | 08/22/23               | 08/23/23  | 08/24/23     |
 | Intro to React | Forms, Event Listeners | useEffect | Project Work |
 
-`Project: React Milkman due Sunday, 08/27/23`
+`Project: React Milkman due Monday, 08/28/23`
 
 ## Week 5
 
@@ -50,7 +50,7 @@
 | 08/28/23                                             | 08/29/23                        | 08/30/23              | 08/31/23     |
 | Fullstack Applications, GET requests, Asynchronicity | POST requests, Create a message | Edit, Delete messages | Project Work |
 
-`Project: Spammer Frontend due Sunday, 09/03/23`
+`Project: Spammer Frontend due Monday, 09/04/23`
 
 ## Week 6
 
@@ -60,7 +60,7 @@
 | 09/04/23                             | 09/05/23        | 09/06/23        | 09/07/23     |
 | Intro to Node, Express, GET requests | Intro to Prisma | CRUD operations | Project Work |
 
-`Project: Spammer Backend due Sunday, 09/10/23`
+`Project: Spammer Backend due Monday, 09/11/23`
 
 ## Week 7
 
@@ -70,6 +70,8 @@
 | 09/11/23     | 09/12/23                  | 09/13/23             | 09/14/23     |
 | React Router | Register Form, Login Form | Navbar, localStorage | Project Work |
 
+`Project: New Phone Who's This Frontend due Monday, 09/18/23`
+
 ## Week 8
 
 | Day 29       | Day 30                    | Day 31               | Day 32       |
@@ -78,7 +80,7 @@
 | 09/18/23     | 09/19/23                  | 09/20/23             | 09/21/23     |
 | React Router | Register Form, Login Form | Navbar, localStorage | Project Work |
 
-`Project: Reddit Frontend due Sunday, 09/24/23`
+`Project: New Phone Who's This Backend due Monday, 09/25/23`
 
 ## Week 9
 
@@ -96,7 +98,7 @@
 | 10/02/23                  | 10/03/23             | 10/04/23     | 10/05/23     |
 | Auth middleware, req.user | CRUD auth operations | Project Work | Project Work |
 
-`Project: Reddit Backend due Sunday, 10/08/23`
+`Project: Reddit due Monday, 10/09/23`
 
 ## Week 11
 
@@ -114,4 +116,4 @@
 | 10/16/23 | 10/17/23 | 10/18/23  | 10/19/23   |
 | Capstone | Capstone | Capstone  | Graduation |
 
-`Project: Capstone due Wednesday, 10/18/23`
+`Project: Capstone due Thursday, 10/19/23`

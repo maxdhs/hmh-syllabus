@@ -4,9 +4,8 @@
 
 ## Week 1
 
-| Day 1         | Day 2        | Day 3     | Day 4        |
-| ------------- | ------------ | --------- | ------------ |
 | Monday        | Tuesday      | Wednesday | Thursday     |
+| ------------- | ------------ | --------- | ------------ |
 | 08/30/23      | 08/31/23     | 09/01/23  | 09/02/23     |
 | Intro to HTML | Intro to CSS | Flexbox   | Project Work |
 
@@ -14,9 +13,8 @@
 
 ## Week 2
 
-| Day 5               | Day 6    | Day 7     | Day 8        |
-| ------------------- | -------- | --------- | ------------ |
 | Monday              | Tuesday  | Wednesday | Thursday     |
+| ------------------- | -------- | --------- | ------------ |
 | 09/06/23            | 09/07/23 | 09/08/23  | 09/09/23     |
 | Intro to JavaScript | Loops    | Functions | Project Work |
 
@@ -24,9 +22,8 @@
 
 ## Week 3
 
-| Day 9        | Day 10       | Day 11    | Day 12   |
-| ------------ | ------------ | --------- | -------- |
 | Monday       | Tuesday      | Wednesday | Thursday |
+| ------------ | ------------ | --------- | -------- |
 | 09/13/23     | 09/14/23     | 09/15/23  | 09/16/23 |
 | DOM - Part 1 | DOM - Part 2 | Arrays    | Objects  |
 
@@ -34,29 +31,26 @@
 
 ## Week 4
 
-| Day 17   | Day 18                       | Day 19      | Day 20        |
-| -------- | ---------------------------- | ----------- | ------------- |
-| Monday   | Tuesday                      | Wednesday   | Thursday      |
-| 09/20/23 | 09/21/23                     | 09/22/23    | 09/23/23      |
-| Terminal | Git, arrow functions, spread | map, filter | destructuring |
+| Monday   | Tuesday                      | Wednesday                  | Thursday      |
+| -------- | ---------------------------- | -------------------------- | ------------- |
+| 09/20/23 | 09/21/23                     | 09/22/23                   | 09/23/23      |
+| Terminal | Git, arrow functions, spread | map, filter, destructuring | **_HOLIDAY_** |
 
 `Project: Ouija due Monday, 12/04/23`
 
 ## Week 5
 
-| Day 13         | Day 14                 | Day 15    | Day 16        |
-| -------------- | ---------------------- | --------- | ------------- |
-| Monday         | Tuesday                | Wednesday | Thursday      |
-| 09/27/23       | 09/28/23               | 09/29/23  | 09/30/23      |
-| Intro to React | Forms, Event Listeners | useEffect | **_HOLIDAY_** |
+| Monday         | Tuesday                | Wednesday | Thursday     |
+| -------------- | ---------------------- | --------- | ------------ |
+| 09/27/23       | 09/28/23               | 09/29/23  | 09/30/23     |
+| Intro to React | Forms, Event Listeners | useEffect | Project Work |
 
 `Project: Hungry Pets due Monday, 09/27/23`
 
 ## Week 6
 
-| Day 17                                               | Day 18                          | Day 19                | Day 20       |
-| ---------------------------------------------------- | ------------------------------- | --------------------- | ------------ |
 | Monday                                               | Tuesday                         | Wednesday             | Thursday     |
+| ---------------------------------------------------- | ------------------------------- | --------------------- | ------------ |
 | 12/04/23                                             | 12/05/23                        | 12/06/23              | 12/07/23     |
 | Fullstack Applications, GET requests, Asynchronicity | POST requests, Create a message | Edit, Delete messages | Project Work |
 
@@ -64,9 +58,8 @@
 
 ## Week 7
 
-| Day 21                               | Day 22          | Day 23          | Day 24       |
-| ------------------------------------ | --------------- | --------------- | ------------ |
 | Monday                               | Tuesday         | Wednesday       | Thursday     |
+| ------------------------------------ | --------------- | --------------- | ------------ |
 | 09/04/23                             | 09/05/23        | 09/06/23        | 09/07/23     |
 | Intro to Node, Express, GET requests | Intro to Prisma | CRUD operations | Project Work |
 
@@ -74,9 +67,8 @@
 
 ## Week 8
 
-| Day 25       | Day 26                    | Day 27               | Day 28       |
-| ------------ | ------------------------- | -------------------- | ------------ |
 | Monday       | Tuesday                   | Wednesday            | Thursday     |
+| ------------ | ------------------------- | -------------------- | ------------ |
 | 09/11/23     | 09/12/23                  | 09/13/23             | 09/14/23     |
 | React Router | Register Form, Login Form | Navbar, localStorage | Project Work |
 
@@ -84,9 +76,8 @@
 
 ## Week 9
 
-| Day 29       | Day 30                    | Day 31               | Day 32       |
-| ------------ | ------------------------- | -------------------- | ------------ |
 | Monday       | Tuesday                   | Wednesday            | Thursday     |
+| ------------ | ------------------------- | -------------------- | ------------ |
 | 09/18/23     | 09/19/23                  | 09/20/23             | 09/21/23     |
 | React Router | Register Form, Login Form | Navbar, localStorage | Project Work |
 
@@ -94,17 +85,15 @@
 
 ## Week 10
 
-| Day 33         | Day 34              | Day 35       | Day 36       |
-| -------------- | ------------------- | ------------ | ------------ |
 | Monday         | Tuesday             | Wednesday    | Thursday     |
+| -------------- | ------------------- | ------------ | ------------ |
 | 09/25/23       | 09/26/23            | 09/27/23     | 09/28/23     |
 | Authentication | JWT tokens, hashing | Project Work | Project Work |
 
 ## Week 11
 
-| Day 37                    | Day 38               | Day 39       | Day 40       |
-| ------------------------- | -------------------- | ------------ | ------------ |
 | Monday                    | Tuesday              | Wednesday    | Thursday     |
+| ------------------------- | -------------------- | ------------ | ------------ |
 | 10/02/23                  | 10/03/23             | 10/04/23     | 10/05/23     |
 | Auth middleware, req.user | CRUD auth operations | Project Work | Project Work |
 
@@ -112,17 +101,15 @@
 
 ## Week 12
 
-| Day 41   | Day 42   | Day 43    | Day 44   |
-| -------- | -------- | --------- | -------- |
 | Monday   | Tuesday  | Wednesday | Thursday |
+| -------- | -------- | --------- | -------- |
 | 10/09/23 | 10/10/23 | 10/11/23  | 10/12/23 |
 | Capstone | Capstone | Capstone  | Capstone |
 
 ## Week 13
 
-| Day 45   | Day 46   | Day 47    | Day 48     |
-| -------- | -------- | --------- | ---------- |
 | Monday   | Tuesday  | Wednesday | Thursday   |
+| -------- | -------- | --------- | ---------- |
 | 10/16/23 | 10/17/23 | 10/18/23  | 10/19/23   |
 | Capstone | Capstone | Capstone  | Graduation |
 

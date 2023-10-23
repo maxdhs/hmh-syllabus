@@ -67,17 +67,17 @@
 
 ## Week 8
 
-| Monday          | Tuesday         | Wednesday | Thursday      |
-| --------------- | --------------- | --------- | ------------- |
-| 12/18/23        | 12/19/23        | 12/20/23  | 12/21/23      |
-| **_*HOLIDAY*_** | Next.JS Routing | Auth      | Register Form |
+| Monday          | Tuesday  | Wednesday     | Thursday |
+| --------------- | -------- | ------------- | -------- |
+| 12/18/23        | 12/19/23 | 12/20/23      | 12/21/23 |
+| Next.JS Routing | Auth     | Register Form | Navbar   |
 
 ## Week 9
 
-| Monday         | Tuesday  | Wednesday | Thursday |
-| -------------- | -------- | --------- | -------- |
-| 12/18/23       | 12/19/23 | 12/20/23  | 12/21/23 |
-| POST /register | Navbar   | JWT       | Hashing  |
+| Monday        | Tuesday  | Wednesday | Thursday     |
+| ------------- | -------- | --------- | ------------ |
+| 12/25/23      | 12/26/23 | 12/27/23  | 12/28/23     |
+| **_HOLIDAY_** | JWT      | Hashing   | Project Work |
 
 ## Week 10
 

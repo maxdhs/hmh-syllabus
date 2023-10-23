@@ -7,52 +7,62 @@
 | Day 1         | Day 2        | Day 3     | Day 4        |
 | ------------- | ------------ | --------- | ------------ |
 | Monday        | Tuesday      | Wednesday | Thursday     |
-| 07/31/23      | 08/01/23     | 08/02/23  | 08/03/23     |
+| 08/30/23      | 08/31/23     | 09/01/23  | 09/02/23     |
 | Intro to HTML | Intro to CSS | Flexbox   | Project Work |
 
-`Project: Wikipedia Clone due Monday, 08/07/23`
+`Project: YouTube Clone due Monday, 09/06/23`
 
 ## Week 2
 
 | Day 5               | Day 6    | Day 7     | Day 8        |
 | ------------------- | -------- | --------- | ------------ |
 | Monday              | Tuesday  | Wednesday | Thursday     |
-| 08/07/23            | 08/08/23 | 08/09/23  | 08/10/23     |
+| 09/06/23            | 09/07/23 | 09/08/23  | 09/09/23     |
 | Intro to JavaScript | Loops    | Functions | Project Work |
 
-`Project: Number Guesser due Monday, 08/14/23`
+`Project: Number Guesser due Monday, 09/13/23`
 
 ## Week 3
 
 | Day 9        | Day 10       | Day 11    | Day 12   |
 | ------------ | ------------ | --------- | -------- |
 | Monday       | Tuesday      | Wednesday | Thursday |
-| 08/14/23     | 08/15/23     | 08/16/23  | 08/17/23 |
+| 09/13/23     | 09/14/23     | 09/15/23  | 09/16/23 |
 | DOM - Part 1 | DOM - Part 2 | Arrays    | Objects  |
 
-`Project: Vanilla Milkman due Monday, 08/21/23`
+`Project: Vanilla Milkman due Monday, 09/20/23`
 
 ## Week 4
 
-| Day 13         | Day 14                 | Day 15    | Day 16       |
-| -------------- | ---------------------- | --------- | ------------ |
-| Monday         | Tuesday                | Wednesday | Thursday     |
-| 08/21/23       | 08/22/23               | 08/23/23  | 08/24/23     |
-| Intro to React | Forms, Event Listeners | useEffect | Project Work |
+| Day 17   | Day 18                       | Day 19      | Day 20        |
+| -------- | ---------------------------- | ----------- | ------------- |
+| Monday   | Tuesday                      | Wednesday   | Thursday      |
+| 09/20/23 | 09/21/23                     | 09/22/23    | 09/23/23      |
+| Terminal | Git, arrow functions, spread | map, filter | destructuring |
 
-`Project: React Milkman due Monday, 08/28/23`
+`Project: Ouija due Monday, 12/04/23`
 
 ## Week 5
+
+| Day 13         | Day 14                 | Day 15    | Day 16        |
+| -------------- | ---------------------- | --------- | ------------- |
+| Monday         | Tuesday                | Wednesday | Thursday      |
+| 09/27/23       | 09/28/23               | 09/29/23  | 09/30/23      |
+| Intro to React | Forms, Event Listeners | useEffect | **_HOLIDAY_** |
+
+`Project: Hungry Pets due Monday, 09/27/23`
+
+## Week 6
 
 | Day 17                                               | Day 18                          | Day 19                | Day 20       |
 | ---------------------------------------------------- | ------------------------------- | --------------------- | ------------ |
 | Monday                                               | Tuesday                         | Wednesday             | Thursday     |
-| 08/28/23                                             | 08/29/23                        | 08/30/23              | 08/31/23     |
+| 12/04/23                                             | 12/05/23                        | 12/06/23              | 12/07/23     |
 | Fullstack Applications, GET requests, Asynchronicity | POST requests, Create a message | Edit, Delete messages | Project Work |
 
 `Project: Spammer Frontend due Monday, 09/04/23`
 
-## Week 6
+## Week 7
 
 | Day 21                               | Day 22          | Day 23          | Day 24       |
 | ------------------------------------ | --------------- | --------------- | ------------ |
@@ -62,7 +72,7 @@
 
 `Project: Spammer Backend due Monday, 09/11/23`
 
-## Week 7
+## Week 8
 
 | Day 25       | Day 26                    | Day 27               | Day 28       |
 | ------------ | ------------------------- | -------------------- | ------------ |
@@ -72,7 +82,7 @@
 
 `Project: New Phone Who's This Frontend due Monday, 09/18/23`
 
-## Week 8
+## Week 9
 
 | Day 29       | Day 30                    | Day 31               | Day 32       |
 | ------------ | ------------------------- | -------------------- | ------------ |
@@ -82,7 +92,7 @@
 
 `Project: New Phone Who's This Backend due Monday, 09/25/23`
 
-## Week 9
+## Week 10
 
 | Day 33         | Day 34              | Day 35       | Day 36       |
 | -------------- | ------------------- | ------------ | ------------ |
@@ -90,7 +100,7 @@
 | 09/25/23       | 09/26/23            | 09/27/23     | 09/28/23     |
 | Authentication | JWT tokens, hashing | Project Work | Project Work |
 
-## Week 10
+## Week 11
 
 | Day 37                    | Day 38               | Day 39       | Day 40       |
 | ------------------------- | -------------------- | ------------ | ------------ |
@@ -100,7 +110,7 @@
 
 `Project: Reddit due Monday, 10/09/23`
 
-## Week 11
+## Week 12
 
 | Day 41   | Day 42   | Day 43    | Day 44   |
 | -------- | -------- | --------- | -------- |
@@ -108,7 +118,7 @@
 | 10/09/23 | 10/10/23 | 10/11/23  | 10/12/23 |
 | Capstone | Capstone | Capstone  | Capstone |
 
-## Week 12
+## Week 13
 
 | Day 45   | Day 46   | Day 47    | Day 48     |
 | -------- | -------- | --------- | ---------- |
